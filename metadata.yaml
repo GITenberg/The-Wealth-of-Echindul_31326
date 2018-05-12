@@ -1,0 +1,29 @@
+_repo: The-Wealth-of-Echindul_31326
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loomis, Noel M.
+    alias: Loomis, Noel Miller
+    birthdate: 1905
+    deathdate: 1969
+    gutenberg_agent_id: '35155'
+    url: http://www.gutenberg.org/2009/agents/35155
+description: ''
+gutenberg_issued: '2010-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+title: The Wealth of Echindul
+url: http://www.gutenberg.org/ebooks/31326
